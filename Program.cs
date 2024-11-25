@@ -5,6 +5,7 @@ using Ntwalo_APPR6312.Repository;
 using Microsoft.EntityFrameworkCore;
 using System.Configuration;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
